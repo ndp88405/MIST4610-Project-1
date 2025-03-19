@@ -13,9 +13,7 @@ sense in the context of your data model. This should be reflective of your conve
 group and instructor (if you reach out for help).</p>
 
 <h1>Data Model</h1>
-<p>Include an image of the data model (PNG file). An explanation of the data model including the
-relationships between the entities in natural English. Simply put, what kind of data does your
-database support storage of and what kind of data does it not?</p>
+<p>_______________</p>
 <img alt="Data Model" src="https://github.com/user-attachments/assets/1758a320-708e-4a1e-868f-c8baf724b529"/>
 
 
