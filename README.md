@@ -16,7 +16,8 @@ group and instructor (if you reach out for help).</p>
 <p>Include an image of the data model (PNG file). An explanation of the data model including the
 relationships between the entities in natural English. Simply put, what kind of data does your
 database support storage of and what kind of data does it not?</p>
-<img src ="https://github.com/user-attachments/assets/83fd65c9-2a18-4816-a8e4-177d0b2c4cfe">
+<img alt="Data Model" src="https://github.com/user-attachments/assets/1758a320-708e-4a1e-868f-c8baf724b529"/>
+
 
 
 <h1>Data Dictionary</h1>
