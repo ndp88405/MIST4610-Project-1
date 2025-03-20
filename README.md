@@ -21,7 +21,7 @@ group and instructor (if you reach out for help).</p>
 <h1>Data Dictionary</h1>
 <img width="630" alt="Player" src="https://github.com/user-attachments/assets/cd33ce3d-1ffd-4493-85dd-b79ddc3c1d6c" />
 <img width="630" alt="team_Staff" src="https://github.com/user-attachments/assets/75bb0d68-c446-4044-bc38-0e8515f84738" />
-<img width="630" alt="Staff" src="https://github.com/user-attachments/assets/b9ded42b-73e1-4e61-a68f-8b5694632ff3" />
+<img width="629" alt="Staff" src="https://github.com/user-attachments/assets/e075acbe-8154-4e6a-9a53-c8514f21e7b3" />
 <img width="629" alt="Uniform" src="https://github.com/user-attachments/assets/a6257ac0-3062-46e5-bbb3-34be07f26a2f" />
 <img width="629" alt="Positions" src="https://github.com/user-attachments/assets/3a027fd8-c28c-462e-970f-91c6309c5a39" />
 <img width="629" alt="Venue" src="https://github.com/user-attachments/assets/36b0de15-75a9-47d5-86a3-fbf22a6a8ab9" />
