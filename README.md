@@ -5,7 +5,7 @@ MIST 4610 - Project 1
 <li>Keenan, Patrick <a href="url">link for github</a></li>
 <li>Patel, Kishan <a href="url">link for github</a></li>
 <li>Thomas, Reuben <a href="url">link for github</a></li>
-<li>Patel, Nidhi <a href="https://github.com/ndp88405">link for github</a></li>
+<li>Patel, Nidhi <a href="https://github.com/ndp88405">ndp88405</a></li>
 
 <h1>Problem Description</h1>
 <p>A description of the scenario that you are modeling describing it in sufficient detail that makes
@@ -39,3 +39,26 @@ Beyond individual teams, the model accounts for league structures through the <b
 <img width="629" alt="Contracts" src="https://github.com/user-attachments/assets/4770d067-086f-4b5c-b168-6143585f7f8c" />
 <img width="629" alt="team_Conference" src="https://github.com/user-attachments/assets/6539e820-d47b-4033-84d0-57466212b07a" />
 <img width="629" alt="Conference" src="https://github.com/user-attachments/assets/f066e66a-d912-4738-8f99-da102ce8b6b9" />
+
+<h1>Queries</h1>
+<h3>Query 1</h3>
+<img width="629"src="https://github.com/user-attachments/assets/4a52c5db-9e9f-41f2-9254-0045b34af652"/>
+<h3>Query 2</h3>
+<img width="629" src="https://github.com/user-attachments/assets/5b573fc5-6cee-43c1-bd03-b00adb96dc6c"/>
+<h3>Query 3</h3>
+<img width="629" src ="https://github.com/user-attachments/assets/4418a27b-9a48-4859-aea8-f84b565248a2"/>
+<h3>Query 4</h3>
+<img width="629" src ="https://github.com/user-attachments/assets/5f4fcf98-22b7-4730-8437-4534adc0af6f"/>
+<h3>Query 5</h3>
+<img width="629" src ="https://github.com/user-attachments/assets/03056969-21ad-402a-8394-7e4562afa11f">
+
+<h3>Query 6</h3>
+
+<h3>Query 7</h3>
+
+<h3>Query 8</h3>
+
+<h3>Query 9</h3>
+
+<h3>Query 10</h3>
+
