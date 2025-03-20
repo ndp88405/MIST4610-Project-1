@@ -13,7 +13,16 @@ sense in the context of your data model. This should be reflective of your conve
 group and instructor (if you reach out for help).</p>
 
 <h1>Data Model</h1>
-<p>Our data model is based on a hypothetical Football League based in Georgia. It captures key aspects of team organization, player management, staff roles, sponsorships, and league affiliations. At its core, the <b> Player </b>table holds detailed information about the individual athletes, like their physical attributes, position, and team affiliation. Each player is linked to a specific <b>Position</b>, which defines their roles on the field. The positions include quarterback, wide receiver, offensive lineman, defensive lineman, safety, and cornerback. The players’ contract details are stored in the <b>Contracts</b> table, which tracks salary, start and end dates.
+<p>Our data model is based on a hypothetical Football League based in Georgia. It captures key aspects of team organization, player management, staff roles, sponsorships, and league affiliations. 
+
+At its core, the <b> Player</b> table holds detailed information about the individual athletes, like their physical attributes, position, and team affiliation. Each player is linked to a specific <b>Position</b>, which defines their roles on the field. The positions include quarterback, wide receiver, offensive lineman, defensive lineman, safety, and cornerback. The players’ contract details are stored in the <b>Contracts</b> table, which tracks their salary, start and end dates of the contract. 
+
+Players belong to a <b>Team </b>, which is identified by the name, city and their associate home venue, which is stored in the <b>Venue</b> table, which also records the stadium capacity. Since there are 10 teams in the league we needed to make sure we had additional organizational elements which included, sponsorship agreements captured in the <b>Sponsor</b> table, which details sponsoring companies and the type of sponsor the company is, like Beverage, Airlines, or Transportation. 
+
+The <b> Coach </b> table links specific coaches to teams, while the <b> Staff </b> table holds information on other essential personnel, such as medical staff. The <b>team_Staff</b> table facilitates a many-to-many relationship between teams and their staff members. Teams also have designated uniforms, recorded in the <b>Uniform</b> table, which captures uniform colors, patterns, and materials. 
+
+Beyond individual teams, the model accounts for league structures through the <b>Conference</b> table, which categorizes teams based on geographical location, East or West. The <b>teamConference</b> table establishes a many-to-many relationship between teams and conferences, enabling teams to participate in multiple league structures. 
+
 </p>
 <img alt="Data Model" src="https://github.com/user-attachments/assets/1758a320-708e-4a1e-868f-c8baf724b529"/>
 
