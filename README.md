@@ -42,18 +42,23 @@ Beyond individual teams, the model accounts for league structures through the <b
 
 <h1>Queries</h1>
 <h3>Query 1</h3>
+<p>List players full name that play in the quarterback position</p>
 <img width="629"src="https://github.com/user-attachments/assets/4a52c5db-9e9f-41f2-9254-0045b34af652"/>
 <h3>Query 2</h3>
+<p>List the player id, full name weight and team name of players that weight more than the average weight for there team </p>
 <img width="629" src="https://github.com/user-attachments/assets/5b573fc5-6cee-43c1-bd03-b00adb96dc6c"/>
 <h3>Query 3</h3>
+<p>List the full player name, salary, team, conference where they earn a salary more than 800,000 and play in the eastern conference</p>
 <img width="629" src ="https://github.com/user-attachments/assets/4418a27b-9a48-4859-aea8-f84b565248a2"/>
 <h3>Query 4</h3>
+<p>Find the tallest and heaviest players and their full name weight and team name</p>
 <img width="629" src ="https://github.com/user-attachments/assets/5f4fcf98-22b7-4730-8437-4534adc0af6f"/>
 <h3>Query 5</h3>
+<p>Find the average payroll of each Team and order it from high to low</p>
 <img width="629" src ="https://github.com/user-attachments/assets/03056969-21ad-402a-8394-7e4562afa11f">
-
 <h3>Query 6</h3>
-
+<p>Find all the players who share the last name Lambert along with there playerID age team name </p>
+<img src = "https://github.com/user-attachments/assets/1b6f39fe-ca06-4c5e-a23d-3a23493e6c9b"/>
 <h3>Query 7</h3>
 
 <h3>Query 8</h3>
