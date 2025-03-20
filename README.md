@@ -5,7 +5,7 @@ MIST 4610 - Project 1
 <li>Keenan, Patrick <a href="url">link for github</a></li>
 <li>Patel, Kishan <a href="url">link for github</a></li>
 <li>Thomas, Reuben <a href="url">link for github</a></li>
-<li>Patel, Nidhi <a href="url">link for github</a></li>
+<li>Patel, Nidhi <a href="https://github.com/ndp88405">link for github</a></li>
 
 <h1>Problem Description</h1>
 <p>A description of the scenario that you are modeling describing it in sufficient detail that makes
